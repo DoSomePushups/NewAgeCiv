@@ -23,7 +23,7 @@
     "innerColor": [223, 11, 11],
     "favoredReligion": "Islam",
     "uniqueName": "Большие сиськи",
-    "uniques": ["[+25]% Strength <for [All] units>", "[+50]% Strength <for [All] units> when defending", "Starts with [Honor] adopted", "[+15]% Production <for [All] units>", "[-50]% Movement <for [{Military} {Land}] units>"]
+    "uniques": ["[+25]% Strength <for [All] units>", "[+50]% Strength <for [All] units> when defending", "Starts with [Honor] adopted", "[+15]% Production <for [All] units>", "[-50]% Movement <for [{Military} {Land}] units>"],
     "cities": ["2Fort","Dustbowl","Gorge","Process","Turbine","Landfall","Double Cross","Rottenburg","Sawmill","Upward"],
     "spyNames": ["Пулеметчик", "Скаут", "Шпион", "Поджигатель", "Подрывник", "Солдат", "Инженер", "Медик", "Снайпер", "redacted"]
   }
