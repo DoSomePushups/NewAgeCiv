@@ -2,7 +2,8 @@
 	{
 		"name": "РобоСкаут",
 		"unitType": "Scout",
-    "uniqueTo": "МГЕ братья",
+                "uniqueTo": "МГЕ братья",
+		"replaces": "Scout",
 		"movement": 3,
 		"strength": 2,
 		"cost": 10,
