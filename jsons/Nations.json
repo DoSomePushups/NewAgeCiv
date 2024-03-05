@@ -1,30 +1,31 @@
 [
   {
     "name": "МГЕ братья",
-		"leaderName": "Босс этой качалки",
-		"adjective": ["МГЕ брат"],
-		"preferredVictoryType": "Domination",
+    "leaderName": "Босс этой качалки",
+    "adjective": ["МГЕ брат"],
+    "preferredVictoryType": "Domination",
 
     "startIntroPart1": "Эта партия войдет в историю!",
     "startIntroPart2": "Вкинулся и погнал!",
     
     "declaringWar": "Не бойся, деточка, больно не будет",
-		"attacked": "эээ ты че бл*ть",
-		"defeated": "Я в шоке! Он меня уничтожил!",
-		"introduction": "Боже... Что за ебл*ны?!",
-		"neutralHello": "Peace be upon you.",
+    "attacked": "эээ ты че бл*ть",
+    "defeated": "Я в шоке! Он меня уничтожил!",
+    "introduction": "Боже... Что за ебл*ны?!",
+    "neutralHello": "Peace be upon you.",
     "neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
     "neutralNo": ["НЕЕЕЕЕТ"],
-		"neutralYes": ["ДААААА"],
+    "neutralYes": ["ДААААА"],
     "afterPeace": "Ну что, получил, дурень?",
-		"hateHello": "Вы клинические дебилы",
-		"tradeRequest": "Веди себя как мужчина, сосунок",
-		"outerColor": [90, 44, 44],
-		"innerColor": [223, 11, 11],
-		"favoredReligion": "Качалка",
-		"uniqueName": "Большие сиськи",
-		"uniques": ["[+1] Strength <for [{Military}] units""],
-		"cities": ["2Fort","Dustbowl","Gorge","Process","Turbine","Landfall","Double Cross","Rottenburg","Sawmill","Upward"],
+    "hateHello": "Вы клинические дебилы",
+    "tradeRequest": "Веди себя как мужчина, сосунок",
+    "outerColor": [90, 44, 44],
+    "innerColor": [223, 11, 11],
+    "favoredReligion": "Качалка",
+    "uniqueName": "Большие сиськи",
+    "uniques": ["[+1] Strength <for [{Military}] units"],
+    "cities": ["2Fort","Dustbowl","Gorge","Process","Turbine","Landfall","Double Cross","Rottenburg","Sawmill","Upward"],
     "spyNames": ["Пулеметчик", "Скаут", "Шпион", "Поджигатель", "Подрывник", "Солдат", "Инженер", "Медик", "Снайпер", "redacted"]
-
+  }
+]
 		
