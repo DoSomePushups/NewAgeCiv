@@ -4,7 +4,7 @@
 		"unitType": "Scout",
                 "uniqueTo": "МГЕ братья",
 		"replaces": "Scout",
-		"movement": 3,
+		"movement": 4,
 		"strength": 2,
 		"cost": 10,
 		"obsoleteTech": "Scientific Theory",
