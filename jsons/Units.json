@@ -1,0 +1,14 @@
+[
+	{
+		"name": "РобоСкаут",
+		"unitType": "Scout",
+    "uniqueTo": "МГЕ братья",
+		"movement": 3,
+		"strength": 2,
+		"cost": 10,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "metalhit"
+	}
+]
