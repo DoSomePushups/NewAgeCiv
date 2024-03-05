@@ -15,7 +15,7 @@ size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitsImg/РобоСкаут
+Units/РобоСкаут
   rotate: false
   xy: 0, 0
   size: 100, 100
